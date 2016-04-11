@@ -1,0 +1,2 @@
+module MichaelappsHelper
+end
